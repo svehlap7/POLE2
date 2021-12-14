@@ -27,7 +27,7 @@ namespace P02
 
             for (int i = 0; i < n; i++)
             {
-                cisla = rn.NextDouble() * 2000 - 1000;
+                cisla = rn.NextDouble() * 2000 - 1000; //nevim
                 pole[i] = cisla;
             }
 
